@@ -1,6 +1,6 @@
-title: CV | A jekyll template
+title: CV | My CV
 description:  A beautiful template for your CV.
-url: https://jekyll-cv.stavrospanakakis.com
+url: https://deadoralive1908.github.io/cv/
 baseurl: ''
 theme_skin: blue
 
@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 plugins:
-    - jekyll
+    - jekyll-minifier
 
 exclude:
   - docker-compose.yml

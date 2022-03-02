@@ -3,26 +3,18 @@ support_dark_mode: true
 fork: true
 
 # Sidebar
-contact:   
+contact:
   email: p15meta@ionio.gr
-  github: deadoralive1908
-  linkedin: 
-  phone: 6969666969
-  gitlab: 
-  twitter: 
+  github: deadoralive1908       
+  phone: 6999999999
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Greek
 
 education:
   - degree: MSc in Informatics
     time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
     university: Ionian University
 
 skills:
@@ -41,43 +33,29 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Undergraduate at Ionio University Department of Informatics 
 
-# Experience 
+# Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: IT
+    time: 2015-2020
+    company: Casino Rio
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Technical support ,server maintenance 
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
+  - role: Coffee distributer
     time: 2016-2020
-    company: Microsoft
+    company: Barista Street Caffee
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      High riding skill of Daytona DY50
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: Infinite 
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: K.A. Metaxas
+    conference: There, 2016
 
   - title: Second title of paper. An interesting one too.
     link: "#"
@@ -85,24 +63,22 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: X 
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
+  - title: X2
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      tempor incididunt ut labore et dolore magna aliqua.omelette du fromage
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
+  - time: 1997-Present
     role: PR Manager
-    company: Some random organization
+    company: My life
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      It's hard. 
